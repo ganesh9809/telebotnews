@@ -3,7 +3,7 @@ from telegram import Update
 from telegram.ext import Updater, CommandHandler, CallbackContext
 
 # Replace 'YOUR_BOT_TOKEN' with the token you obtained from the BotFather
-TOKEN = '6855616059:AAHEAYW0fDebHL7U9ycuIWWh2ShlLEU0yXk'
+TOKEN = '6070427949:AAFe9sSrQaF8_MqDZlL9cBIO0J4fIa5Pa1g'
 
 # Replace 'YOUR_NEWS_API_KEY' with your News API key
 NEWS_API_KEY = '322a7405703449fe895cf6f683f1b4a7'
